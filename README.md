@@ -3,10 +3,11 @@ Reliable chunked file transfer over SFTP.
 
 ## License
 
-ChunkLoader is free for personal and non-commercial use.
+ChunkLoader is free to use, including for internal commercial/business use.
 
-Forks and modifications are allowed, but selling ChunkLoader or modified
-versions of it, including it in paid products, or offering it as part of a
-paid service is not permitted.
+You may fork, modify, and redistribute it for free.
+
+You may not sell ChunkLoader, sell modified versions of it, include it in paid
+software bundles, or offer it as part of a paid service.
 
 See [LICENSE](./LICENSE).
