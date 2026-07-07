@@ -11,3 +11,7 @@ You may not sell ChunkLoader, sell modified versions of it, include it in paid
 software bundles, or offer it as part of a paid service.
 
 See [LICENSE](./LICENSE).
+
+Plans:
+Support more services than only SFTP
+Maybe even integrated SFTP server hosting
